@@ -5,3 +5,6 @@ Site Android Modulo 2
 
 [Clique aqui para acessar](https://vitormelo0511.github.io/HTML-CSS-Curso-em-Video/Modulo2/Projeto/index.html)
 
+Site Cordel de Milton Duarte
+
+[Clique aqui para acessar](https://vitormelo0511.github.io/HTML-CSS-Curso-em-Video/Modulo3/ProjetoCordel/index.html)
